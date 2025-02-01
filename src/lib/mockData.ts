@@ -62,7 +62,7 @@ let posts: Post[] = [
   {
     id: '2',
     user_id: '2',
-    image_url: 'https://images.unsplash.com/photo-1682687221038-404670f01d03',
+    image_url: 'https://images.unsplash.com/photo-1738250733850-1507b75f5e2d?q=80&w=1888&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     caption: 'City vibes',
     created_at: '2024-02-21T14:30:00Z',
   },
