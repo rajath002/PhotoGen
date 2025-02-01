@@ -33,7 +33,7 @@ Photogen is a photo-sharing social media application inspired by Instagram. User
     ```sh
     npm start
     ```
-2. Open your browser and navigate to `http://localhost:3000`.
+2. Open your browser and navigate to `http://localhost:5173`.
 
 ## Contributing
 
